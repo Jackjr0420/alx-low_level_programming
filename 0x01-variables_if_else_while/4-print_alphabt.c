@@ -24,4 +24,4 @@ int main(void)
 	}
 	putchar(nline);
 	return (0);
-}
+o}
